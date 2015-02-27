@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CacheEmAll</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="api_not_resp">Google api is not responding</string>
+    <string name="no_network">Cannot connect to network</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <ImageView
+        android:id="@+id/gimage"
+        android:background="@drawable/placeholder"
+        android:scaleType="fitCenter"
+        android:layout_width="200dp"
+        android:adjustViewBounds="true"
+        android:layout_height="180dp"/>
+
+</LinearLayout>

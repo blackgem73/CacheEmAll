@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/rafi/Rafi/Softwares/Android/adt-bundle-linux-x86_64-20130917/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/home/rafi/Rafi/Projects/AndroidStudioProjects/CacheEmAll/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-bdcbc30c9e159fb75920b49706014e4fffbab979.jar" />
+    </item>
+    <item
+        jar="/home/rafi/Rafi/Projects/AndroidStudioProjects/CacheEmAll/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/home/rafi/Rafi/Projects/AndroidStudioProjects/CacheEmAll/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-eeac63dbb7158c4f779d6c752f91c959c2437a80.jar" />
+    </item>
+    <item
+        jar="/home/rafi/Rafi/Projects/AndroidStudioProjects/CacheEmAll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/home/rafi/Rafi/Projects/AndroidStudioProjects/CacheEmAll/app/build/intermediates/pre-dexed/debug/classes-142af58f592ac2ce0cde6916caa8fce0a579f858.jar" />
+    </item>
+    <item
+        jar="/home/rafi/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.3/a85588bec3e2c4584d593d3f15df1677321bca72/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/home/rafi/Rafi/Projects/AndroidStudioProjects/CacheEmAll/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-0c9e10c43df7d2d3b32c8c6b59847975c55d0500.jar" />
+    </item>
+    <item
+        jar="/home/rafi/Rafi/Projects/AndroidStudioProjects/CacheEmAll/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/home/rafi/Rafi/Projects/AndroidStudioProjects/CacheEmAll/app/build/intermediates/pre-dexed/debug/classes-13b6adf5c90a34375b43edcbaedb07676b3a42ba.jar" />
+    </item>
+    <item
+        jar="/home/rafi/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/home/rafi/Rafi/Projects/AndroidStudioProjects/CacheEmAll/app/build/intermediates/pre-dexed/debug/gson-2.3-204b8a2c5da3825f4151ad78164d4b72c51e5e41.jar" />
+    </item>
+    <item
+        jar="/home/rafi/Rafi/Projects/AndroidStudioProjects/CacheEmAll/app/libs/flickrj-android-1.0.3.20120619135416.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="6def0a13ef6a4c62351224f1b512d58d2c604ac8">
+        <dex dex="/home/rafi/Rafi/Projects/AndroidStudioProjects/CacheEmAll/app/build/intermediates/pre-dexed/debug/flickrj-android-1.0.3.20120619135416-7acaa2e4acf42d70404cd92b2633acd1fa4f07ec.jar" />
+    </item>
+
+</items>
